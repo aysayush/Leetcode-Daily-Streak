@@ -1,6 +1,8 @@
 class Solution {
 public:
-    long long countHousePlacements(long long n) {
+    long long countHousePlacements(long long n) {  
+   
+        // modify the return type from int -> long long 
         
          long long mod= 1e9+7;
         
